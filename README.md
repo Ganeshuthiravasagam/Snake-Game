@@ -12,8 +12,8 @@
 - Simple IDE like Jupyter Notebook
 - Your valuable time
 
-⭐ Reference
+## ⭐Reference
 **"Making Games with Python and Pygame"** Book and various YouTube Tutorials 👩🏽‍🏫
 
-⭐ Copyrights
+## ⭐Copyrights
 Snake Image: [Image](https://github.com/clear-code-projects)
