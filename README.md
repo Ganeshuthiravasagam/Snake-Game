@@ -1,3 +1,4 @@
+![image](https://github.com/Ganeshuthiravasagam/Snake-Game/blob/main/Sanke%20Game.jpeg)
 🐍 Classic Snake Game created using PyGame.
 
 **Game Logic** : The snake gets bigger⚡ while it eats an apple🍎 and the score gets incremented. When it hits the four sides of the box or if it hits itself🤦🏽‍♂️ then, the snake gets smaller and returned to the starting point. ☄
