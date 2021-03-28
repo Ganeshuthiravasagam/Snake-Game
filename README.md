@@ -8,7 +8,7 @@
 - Basic knowledge of python
 - Basic knowledge of Pygame module
 
-## ⭐Tools and Required
+## ⭐Tools Required
 - Modules: Pygame, sys and random 
 - Python installed on your computer
 - Simple IDE like Jupyter Notebook
