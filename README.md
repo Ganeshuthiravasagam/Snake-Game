@@ -4,6 +4,9 @@
 
 **Game Logic** : The snake gets bigger⚡ while it eats an apple🍎 and the score gets incremented. When it hits the four sides of the box or if it hits itself🤦🏽‍♂️ then, the snake gets smaller and returned to the starting point. ☄
 
+## Project Video
+![Click here to view video](https://www.linkedin.com/feed/update/urn:li:activity:6764463019834654720/)
+
 ## ⭐Prerequisites
 - Basic knowledge of python
 - Basic knowledge of Pygame module
