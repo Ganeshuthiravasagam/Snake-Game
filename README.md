@@ -1,4 +1,4 @@
-## 🐍 Classic Snake Game created using PyGame.
+# 🐍 Classic Snake Game created using PyGame.
 
 ![image](https://github.com/Ganeshuthiravasagam/Snake-Game/blob/main/Sanke%20Game.jpeg)
 
